@@ -1,2 +1,2 @@
 # web_scraper
-Simple tool to scrape text data from websites 
+Simple tool to scrape text data from webpages
