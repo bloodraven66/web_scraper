@@ -1,13 +1,15 @@
 Starter code for text extraction for an IISc project. <br><br>
-
+*------------------------------------------------------------------------------------------------------------------*
 Install jupter notebook from https://jupyter.org/install.
 
 Or, use google Colab [https://research.google.com/colaboratory/] (With this webpage popup in from link won't work in GUIs)
+*------------------------------------------------------------------------------------------------------------------*
 
 Install dependencies by,
 
 pip install -r requirements.txt
 
+*------------------------------------------------------------------------------------------------------------------*
 
 <b>webscraping demo:</b> <br> https://drive.google.com/file/d/10MpMsp322paX5HfIfvEsU5CFyNWF8ic6/view?usp=sharing <br>
 <b>webscraping monitering GUI demo:</b><br>  https://drive.google.com/file/d/1Sv1IH9esUdicgTwDfpidLGxVjqv5uvQ2/view?usp=sharing <br>
