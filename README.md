@@ -19,5 +19,6 @@ pip install -r requirements.txt
 <b>webscraping rejected link GUI demo:</b><br> https://drive.google.com/file/d/1KOQmwrsumwwGGjN3TNI2_IoDYdcTU3g9/view?usp=sharing <br>
 (download the videos and watch them for better quality)<br><br>
 
+*------------------------------------------------------------------------------------------------------------------*
 
 If you are contributing to the project and need more clarification on the code, contact <b>sathvikudupa66@gmail.com</b>
