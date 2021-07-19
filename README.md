@@ -4,7 +4,7 @@ Starter code for text extraction for an IISc project. <br><br>
 Install jupter notebook from https://jupyter.org/install.
 
 Or, use google Colab [https://research.google.com/colaboratory/] 
-(With this webpage popup in from link won't work in GUIs)
+(With this webpage popup from link won't work in GUIs)
 
 *------------------------------------------------------------------------------------------------------------------*
 
