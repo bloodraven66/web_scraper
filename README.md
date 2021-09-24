@@ -39,6 +39,7 @@ Folder Structure to be maintained while saving extracted text:
     -- {topic3}{uniqueId}.json
 
   Where 
+  
     domains = {agriculture, finance, ..}
     uniqueId = random number or time.time()
 
