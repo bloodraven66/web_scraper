@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 Folder Structure to be maintained while saving extracted text:
 
--- {Domain1}
+-- {Domain1_folder}
 
     -- {topic1}{uniqueId}.json
   
@@ -31,7 +31,7 @@ Folder Structure to be maintained while saving extracted text:
   
     -- {topic2}{uniqueId}.json
 
--- {Domain2}
+-- {Domain2_folder}
 
     -- {topic1}{uniqueId}.json
   
@@ -47,4 +47,5 @@ Folder Structure to be maintained while saving extracted text:
 
 
 *------------------------------------------------------------------------------------------------------------------*
+
 If you are contributing to the project and need more clarification on the code, contact <b>sathvikudupa66@gmail.com</b>
