@@ -23,6 +23,7 @@ pip install -r requirements.txt
 Folder Structure to be maintained while saving extracted text:
 
 -- {Domain1}
+
   -- {topic1}{uniqueId}
   
   -- {topic1}{uniqueId}
@@ -30,6 +31,7 @@ Folder Structure to be maintained while saving extracted text:
   -- {topic2}{uniqueId}
 
 -- {Domain2}
+
   -- {topic1}{uniqueId}
   
   -- {topic2}{uniqueId}
