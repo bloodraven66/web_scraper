@@ -20,6 +20,7 @@ pip install -r requirements.txt
 (download the videos and watch them for better quality)<br><br>
 
 *------------------------------------------------------------------------------------------------------------------*
+
 Folder Structure to be maintained while saving extracted text:
 
 -- {Domain1}
