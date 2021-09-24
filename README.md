@@ -24,19 +24,19 @@ Folder Structure to be maintained while saving extracted text:
 
 -- {Domain1}
 
-    -- {topic1}{uniqueId}
+    -- {topic1}{uniqueId}.json
   
-    -- {topic1}{uniqueId}
+    -- {topic1}{uniqueId}.json
   
-    -- {topic2}{uniqueId}
+    -- {topic2}{uniqueId}.json
 
 -- {Domain2}
 
-    -- {topic1}{uniqueId}
+    -- {topic1}{uniqueId}.json
   
-    -- {topic2}{uniqueId}
+    -- {topic2}{uniqueId}.json
   
-    -- {topic3}{uniqueId}
+    -- {topic3}{uniqueId}.json
 
   Where 
     domains = {agriculture, finance, ..}
