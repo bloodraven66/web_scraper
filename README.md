@@ -23,18 +23,18 @@ pip install -r requirements.txt
 Folder Structure to be maintained while saving extracted text:
 
 -- {Domain1}
-  -- {topic1}_{uniqueId}
+  -- {topic1}{uniqueId}
   
-  -- {topic1}_{uniqueId}
+  -- {topic1}{uniqueId}
   
-  -- {topic2}_{uniqueId}
+  -- {topic2}{uniqueId}
 
 -- {Domain2}
-  -- {topic1}_{uniqueId}
+  -- {topic1}{uniqueId}
   
-  -- {topic2}_{uniqueId}
+  -- {topic2}{uniqueId}
   
-  -- {topic3}_{uniqueId}
+  -- {topic3}{uniqueId}
 
   Where 
     domains = {agriculture, finance, ..}
