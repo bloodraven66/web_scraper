@@ -24,7 +24,7 @@ Folder Structure to be maintained while saving extracted text:
 
 -- {Domain1}
 
-  \t-- {topic1}{uniqueId}
+  \t -- {topic1}{uniqueId}
   
   -- {topic1}{uniqueId}
   
