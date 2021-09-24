@@ -21,4 +21,31 @@ pip install -r requirements.txt
 
 *------------------------------------------------------------------------------------------------------------------*
 
+Folder Structure to be maintained while saving extracted text:
+
+-- {Domain1_folder}
+
+    -- {topic1}{uniqueId}.json
+  
+    -- {topic1}{uniqueId}.json
+  
+    -- {topic2}{uniqueId}.json
+
+-- {Domain2_folder}
+
+    -- {topic1}{uniqueId}.json
+  
+    -- {topic2}{uniqueId}.json
+  
+    -- {topic3}{uniqueId}.json
+
+  Where 
+  
+    domains = {agriculture, finance, ..}
+    uniqueId = random number or time.time()
+
+
+
+*------------------------------------------------------------------------------------------------------------------*
+
 If you are contributing to the project and need more clarification on the code, contact <b>sathvikudupa66@gmail.com</b>
