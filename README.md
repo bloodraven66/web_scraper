@@ -26,17 +26,17 @@ Folder Structure to be maintained while saving extracted text:
 
      -- {topic1}{uniqueId}
   
-  -- {topic1}{uniqueId}
+    -- {topic1}{uniqueId}
   
-  -- {topic2}{uniqueId}
+    -- {topic2}{uniqueId}
 
 -- {Domain2}
 
-  -- {topic1}{uniqueId}
+    -- {topic1}{uniqueId}
   
-  -- {topic2}{uniqueId}
+    -- {topic2}{uniqueId}
   
-  -- {topic3}{uniqueId}
+    -- {topic3}{uniqueId}
 
   Where 
     domains = {agriculture, finance, ..}
