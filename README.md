@@ -20,5 +20,22 @@ pip install -r requirements.txt
 (download the videos and watch them for better quality)<br><br>
 
 *------------------------------------------------------------------------------------------------------------------*
+Folder Structure to be maintained while saving extracted text:
+- <Domain1>
+  - <topic1>_<uniqueId>
+  - <topic1>_<uniqueId>
+  - <topic2>_<uniqueId>
 
+- <Domain2>
+  - <topic1>_<uniqueId>
+  - <topic1>_<uniqueId>
+  - <topic2>_<uniqueId>
+
+  Where 
+    domains = {agriculture, finance, ..}
+    uniqueId = random number or time.time()
+
+
+
+*------------------------------------------------------------------------------------------------------------------*
 If you are contributing to the project and need more clarification on the code, contact <b>sathvikudupa66@gmail.com</b>
